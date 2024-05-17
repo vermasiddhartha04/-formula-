@@ -1,0 +1,1 @@
+(value/total value)×100%.
